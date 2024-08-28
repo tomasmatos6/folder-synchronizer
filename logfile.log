@@ -1,0 +1,4 @@
+2024-08-28 12:17:55,555 - INFO - Starting foler synchronization.
+2024-08-28 12:17:55,555 - INFO - Created directory: replica
+2024-08-28 12:18:55,560 - INFO - Copied file: source\text1.txt to replica\text1.txt
+2024-08-28 12:19:15,094 - INFO - Program  stopped by the user.
