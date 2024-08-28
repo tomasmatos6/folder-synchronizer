@@ -22,12 +22,12 @@ This script support **-h** or **--help** command for more clarity on the positio
 Some information is only shown on the console because it's only for user clarity, like the time until the next synchronization. We also log into the file when we start and stop the execution of the program, making it possible to see how long the program was running for.
 
 ### Console output:
-![cmd_output](Image/cmd.png)
+![cmd_output](images/cmd.png)
 
-![cmd_output2](Image/cmd2.png)
+![cmd_output2](images/cmd2.png)
 
 ### Log file:
-![logfile](Image/logfile.png)
+![logfile](images/logfile.png)
 
 ## Extra insights:
 
